@@ -4,7 +4,9 @@ Regression using torch
 
 1. Linear regression : 
 
-https://user-images.githubusercontent.com/80973047/164973809-aa07d6c6-6c4b-4fcb-88fa-390b3d0684c8.mp4
+
+https://user-images.githubusercontent.com/80973047/164974201-aec2a11b-39bb-4521-8a69-6cf9e0a52d3b.mp4
+
 
 <br />
 <br />
